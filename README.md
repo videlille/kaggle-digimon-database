@@ -13,8 +13,6 @@ Input: CSV files, Pandas Dataframes
 Inspiration question
 * MonkeyLearn use for Keyword extraction
 * Kmean clustering on keywords: KMeans from sklear
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 
 ## File - TeamComposition_Assignment_problem
 
