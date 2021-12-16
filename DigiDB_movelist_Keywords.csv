@@ -1,0 +1,389 @@
+Move;SP Cost;Type;Power;Attribute;Inheritable;Description;KEYWORD
+Wolkenapalm I;3;Physical;65;Fire;Yes;"Physical attack; 65 Fire damage to one foe. 95% accuracy.";fire damage,physical attack,foe,accuracy
+Wolkenapalm II;6;Physical;85;Fire;Yes;"Physical attack; 85 Fire damage to one foe. 95% accuracy.";fire damage,physical attack,foe,accuracy
+Wolkenapalm III;9;Physical;105;Fire;Yes;"Physical attack; 105 Fire damage to one foe. 95% accuracy.";fire damage,physical attack,foe,accuracy
+Burst Flame I;3;Magic;55;Fire;Yes;"Magic attack; 55 Fire damage to one foe. 95% accuracy.";magic attack,fire damage,foe,accuracy
+Burst Flame II;6;Magic;75;Fire;Yes;"Magic attack; 75 Fire damage to one foe. 95% accuracy.";magic attack,fire damage,foe,accuracy
+Burst Flame III;9;Magic;95;Fire;Yes;"Magic attack; 95 Fire damage to one foe. 95% accuracy.";magic attack,fire damage,foe,accuracy
+Meteor Fall I;4;Physical;30;Fire;Yes;"Physical attack; 30 Fire damage to all foes. 95% accuracy.";fire damage,physical attack,foe,accuracy
+Meteor Fall II;7;Physical;45;Fire;Yes;"Physical attack; 45 Fire damage to all foes. 95% accuracy.";fire damage,physical attack,foe,accuracy
+Meteor Fall III;10;Physical;75;Fire;Yes;"Physical attack; 75 Fire damage to all foes. 95% accuracy.";fire damage,physical attack,foe,accuracy
+Panic Wisp;10;Magic;30;Fire;Yes;"Magic attack; 30 Fire damage to one foe. Inflicts Panic status effect.";panic status effects,inflicts panic status,magic attack,fire damage,foe
+Ice Archery I;3;Physical;65;Water;Yes;"Physical attack; 65 Water damage to one foe. 95% accuracy.";water damage,physical attack,foe,accuracy
+Ice Archery II;6;Physical;85;Water;Yes;"Physical attack; 85 Water damage to one foe. 95% accuracy.";water damage,physical attack,foe,accuracy
+Ice Archery III;9;Physical;105;Water;Yes;"Physical attack; 105 Water damage to one foe. 95% accuracy.";water damage,physical attack,foe,accuracy
+Hydro Water I;3;Magic;55;Water;Yes;"Magic attack; 55 Water damage to one foe. 95% accuracy.";magic attack,water damage,foe,accuracy
+Hydro Water II;6;Magic;75;Water;Yes;"Magic attack; 75 Water damage to one foe. 95% accuracy.";magic attack,water damage,foe,accuracy
+Hydro Water III;9;Magic;95;Water;Yes;"Magic attack; 95 Water damage to one foe. 95% accuracy.";magic attack,water damage,foe,accuracy
+Ocean Wave I;4;Magic;20;Water;Yes;"Magic attack; 20 Water damage to all foes. 95% accuracy.";magic attack,water damage,foe,accuracy
+Ocean Wave II;7;Magic;35;Water;Yes;"Magic attack; 35 Water damage to all foes. 95% accuracy.";magic attack,water damage,foe,accuracy
+Ocean Wave III;10;Magic;65;Water;Yes;"Magic attack; 65 Water damage to all foes. 95% accuracy.";magic attack,water damage,foe,accuracy
+Idle Bubble;10;Magic;30;Water;Yes;"Magic attack; 30 Water damage to one foe. Inflicts Sleep status effect.";magic attack,water damage,status effects,inflicts,foe
+Crescent Leaf I;3;Physical;65;Plant;Yes;"Physical attack; 65 Plant damage to one foe. 95% accuracy.";plant damage,physical attack,foe,accuracy
+Crescent Leaf II;6;Physical;85;Plant;Yes;"Physical attack; 85 Plant damage to one foe. 95% accuracy.";plant damage,physical attack,foe,accuracy
+Crescent Leaf III;9;Physical;105;Plant;Yes;"Physical attack; 105 Plant damage to one foe. 95% accuracy.";plant damage,physical attack,foe,accuracy
+Gaia Element I;3;Magic;55;Plant;Yes;"Magic attack; 55 Plant damage to one foe. 95% accuracy.";plant damage,magic attack,foe,accuracy
+Gaia Element II;6;Magic;75;Plant;Yes;"Magic attack; 75 Plant damage to one foe. 95% accuracy.";plant damage,magic attack,foe,accuracy
+Gaia Element III;9;Magic;95;Plant;Yes;"Magic attack; 95 Plant damage to one foe. 95% accuracy.";plant damage,magic attack,foe,accuracy
+Rune Forest I;4;Magic;20;Plant;Yes;"Magic attack; 20 Plant damage to all foes. 95% accuracy.";plant damage,magic attack,foe,accuracy
+Rune Forest II;7;Magic;35;Plant;Yes;"Magic attack; 35 Plant damage to all foes. 95% accuracy.";plant damage,magic attack,foe,accuracy
+Rune Forest III;10;Magic;65;Plant;Yes;"Magic attack; 65 Plant damage to all foes. 95% accuracy.";plant damage,magic attack,foe,accuracy
+Venom Trap;10;Physical;40;Plant;Yes;"Physical attack; 40 Plant damage to one foe. Inflicts Poison status effect.";poison status effects,plant damage,physical attack,foe
+Nanomachine Break I;3;Physical;65;Thunder;Yes;"Physical attack; 65 Thunder damage to one foe. 95% accuracy.";thunder damage,physical attack,foe,accuracy
+Nanomachine Break II;6;Physical;85;Thunder;Yes;"Physical attack; 85 Thunder damage to one foe. 95% accuracy.";thunder damage,physical attack,foe,accuracy
+Nanomachine Break III;9;Physical;105;Thunder;Yes;"Physical attack; 105 Thunder damage to one foe. 95% accuracy.";thunder damage,physical attack,foe,accuracy
+Heaven's Thunder I;3;Magic;55;Thunder;Yes;"Magic attack; 55 Thunder damage to one foe. 95% accuracy.";thunder damage,magic attack,foe,accuracy
+Heaven's Thunder II;6;Magic;75;Thunder;Yes;"Magic attack; 75 Thunder damage to one foe. 95% accuracy.";thunder damage,magic attack,foe,accuracy
+Heaven's Thunder III;9;Magic;95;Thunder;Yes;"Magic attack; 95 Thunder damage to one foe. 95% accuracy.";thunder damage,magic attack,foe,accuracy
+Thunder Fall I;4;Physical;30;Thunder;Yes;"Physical attack; 30 Thunder damage to all foes. 95% accuracy.";thunder damage,physical attack,foe,accuracy
+Thunder Fall II;7;Physical;45;Thunder;Yes;"Physical attack; 45 Thunder damage to all foes. 95% accuracy.";thunder damage,physical attack,foe,accuracy
+Thunder Fall III;10;Physical;75;Thunder;Yes;"Physical attack; 75 Thunder damage to all foes. 95% accuracy.";thunder damage,physical attack,foe,accuracy
+Ripping Net;10;Physical;40;Thunder;Yes;"Physical attack; 40 Thunder damage to one foe. Inflicts Paralyze status effect.";inflicts paralyze status,paralyze status effects,physical attack,thunder damage,foe
+Comet Hammer I;3;Physical;65;Earth;Yes;"Physical attack; 65 Earth damage to one foe. 95% accuracy.";earth damage,physical attack,foe,accuracy
+Comet Hammer II;6;Physical;85;Earth;Yes;"Physical attack; 85 Earth damage to one foe. 95% accuracy.";earth damage,physical attack,foe,accuracy
+Comet Hammer III;9;Physical;105;Earth;Yes;"Physical attack; 105 Earth damage to one foe. 95% accuracy.";earth damage,physical attack,foe,accuracy
+Grand Rock I;3;Magic;55;Earth;Yes;"Magic attack; 55 Earth damage to one foe. 95% accuracy.";earth damage,magic attack,foe,accuracy
+Grand Rock II;6;Magic;75;Earth;Yes;"Magic attack; 75 Earth damage to one foe. 95% accuracy.";earth damage,magic attack,foe,accuracy
+Grand Rock III;9;Magic;95;Earth;Yes;"Magic attack; 95 Earth damage to one foe. 95% accuracy.";earth damage,magic attack,foe,accuracy
+Awesome Quake I;4;Physical;30;Earth;Yes;"Physical attack; 30 Earth damage to all foes. 95% accuracy.";earth damage,physical attack,foe,accuracy
+Awesome Quake II;7;Physical;45;Earth;Yes;"Physical attack; 45 Earth damage to all foes. 95% accuracy.";earth damage,physical attack,foe,accuracy
+Awesome Quake III;10;Physical;75;Earth;Yes;"Physical attack; 75 Earth damage to all foes. 95% accuracy.";earth damage,physical attack,foe,accuracy
+Shock;10;Physical;40;Earth;Yes;"Physical attack; 40 Earth damage to one foe. Inflicts Stun status effect.";stun status effects,inflicts stun status,physical attack,earth damage,foe
+Wind Claw I;3;Physical;65;Wind;Yes;"Physical attack; 65 Wind damage to one foe. 95% accuracy.";wind damage,physical attack,foe,accuracy
+Wind Claw II;6;Physical;85;Wind;Yes;"Physical attack; 85 Wind damage to one foe. 95% accuracy.";wind damage,physical attack,foe,accuracy
+Wind Claw III;9;Physical;105;Wind;Yes;"Physical attack; 105 Wind damage to one foe. 95% accuracy.";wind damage,physical attack,foe,accuracy
+Sonic Void I;3;Magic;55;Wind;Yes;"Magic attack; 55 Wind damage to one foe. 95% accuracy.";wind damage,magic attack,foe,accuracy
+Sonic Void II;6;Magic;75;Wind;Yes;"Magic attack; 75 Wind damage to one foe. 95% accuracy.";wind damage,magic attack,foe,accuracy
+Sonic Void III;9;Magic;95;Wind;Yes;"Magic attack; 95 Wind damage to one foe. 95% accuracy.";wind damage,magic attack,foe,accuracy
+Gale Storm I;4;Physical;30;Wind;Yes;"Physical attack; 30 Wind damage to all foes. 95% accuracy.";wind damage,physical attack,foe,accuracy
+Gale Storm II;7;Physical;45;Wind;Yes;"Physical attack; 45 Wind damage to all foes. 95% accuracy.";wind damage,physical attack,foe,accuracy
+Gale Storm III;10;Physical;75;Wind;Yes;"Physical attack; 75 Wind damage to all foes. 95% accuracy.";wind damage,physical attack,foe,accuracy
+Texture Blow;10;Physical;40;Wind;Yes;"Physical attack; 40 Wind damage to one foe. Inflicts Dot status effect.";dot status effects,inflicts dot status,physical attack,wind damage,foe
+Saint Knuckle I;3;Physical;65;Light;Yes;"Physical attack; 65 Light damage to one foe. 95% accuracy.";light damage,physical attack,foe,accuracy
+Saint Knuckle II;6;Physical;85;Light;Yes;"Physical attack; 85 Light damage to one foe. 95% accuracy.";light damage,physical attack,foe,accuracy
+Saint Knuckle III;9;Physical;105;Light;Yes;"Physical attack; 105 Light damage to one foe. 95% accuracy.";light damage,physical attack,foe,accuracy
+Holy Light I;3;Magic;55;Light;Yes;"Magic attack; 55 Light damage to one foe. 95% accuracy.";light damage,magic attack,foe,accuracy
+Holy Light II;6;Magic;75;Light;Yes;"Magic attack; 75 Light damage to one foe. 95% accuracy.";light damage,magic attack,foe,accuracy
+Holy Light III;9;Magic;95;Light;Yes;"Magic attack; 95 Light damage to one foe. 95% accuracy.";light damage,magic attack,foe,accuracy
+Shining Laser I;4;Magic;20;Light;Yes;"Magic attack; 20 Light damage to all foes. 95% accuracy.";light damage,magic attack,foe,accuracy
+Shining Laser II;7;Magic;35;Light;Yes;"Magic attack; 35 Light damage to all foes. 95% accuracy.";light damage,magic attack,foe,accuracy
+Shining Laser III;10;Magic;65;Light;Yes;"Magic attack; 65 Light damage to all foes. 95% accuracy.";light damage,magic attack,foe,accuracy
+Support End;10;Magic;30;Light;Yes;"Magic attack; 30 Light damage to one foe. Prevents the use of support skills.";use of support,light damage,magic attack,support skills,foe
+Destruction Cannon I;3;Physical;65;Dark;Yes;"Physical attack; 65 Dark damage to one foe. 95% accuracy.";dark damage,physical attack,foe,accuracy
+Destruction Cannon II;6;Physical;85;Dark;Yes;"Physical attack; 85 Dark damage to one foe. 95% accuracy.";dark damage,physical attack,foe,accuracy
+Destruction Cannon III;9;Physical;105;Dark;Yes;"Physical attack; 105 Dark damage to one foe. 95% accuracy.";dark damage,physical attack,foe,accuracy
+Nightmare I;3;Magic;55;Dark;Yes;"Magic attack; 55 Dark damage to one foe. 95% accuracy.";magic attack,dark damage,foe,accuracy
+Nightmare II;6;Magic;75;Dark;Yes;"Magic attack; 75 Dark damage to one foe. 95% accuracy.";magic attack,dark damage,foe,accuracy
+Nightmare III;9;Magic;95;Dark;Yes;"Magic attack; 95 Dark damage to one foe. 95% accuracy.";magic attack,dark damage,foe,accuracy
+Hell Crusher I;4;Magic;20;Dark;Yes;"Magic attack; 20 Dark damage to all foes. 95% accuracy.";magic attack,dark damage,foe,accuracy
+Hell Crusher II;7;Magic;35;Dark;Yes;"Magic attack; 35 Dark damage to all foes. 95% accuracy.";magic attack,dark damage,foe,accuracy
+Hell Crusher III;10;Magic;65;Dark;Yes;"Magic attack; 65 Dark damage to all foes. 95% accuracy.";magic attack,dark damage,foe,accuracy
+Destruction;10;Physical;40;Dark;Yes;"Physical attack; 40 Dark damage to one foe. 10% chance to inflict Death.";dark damage,physical attack,chance,foe,death
+Heavy Strike I;3;Physical;70;Neutral;Yes;"Physical attack; 70 Neutral damage to one foe. 95% accuracy.";neutral damage,physical attack,foe,accuracy
+Heavy Strike II;6;Physical;90;Neutral;Yes;"Physical attack; 90 Neutral damage to one foe. 95% accuracy.";neutral damage,physical attack,foe,accuracy
+Heavy Strike III;9;Physical;110;Neutral;Yes;"Physical attack; 110 Neutral damage to one foe. 95% accuracy.";neutral damage,physical attack,foe,accuracy
+Power Energy I;3;Magic;60;Neutral;Yes;"Magic attack; 60 Neutral damage to one foe. 95% accuracy.";neutral damage,magic attack,foe,accuracy
+Power Energy II;6;Magic;80;Neutral;Yes;"Magic attack; 80 Neutral damage to one foe. 95% accuracy.";neutral damage,magic attack,foe,accuracy
+Power Energy III;9;Magic;100;Neutral;Yes;"Magic attack; 100 Neutral damage to one foe. 95% accuracy.";neutral damage,magic attack,foe,accuracy
+Mach Rush I;4;Physical;35;Neutral;Yes;"Physical attack; 35 Neutral damage to all foes. 95% accuracy.";neutral damage,physical attack,foe,accuracy
+Mach Rush II;7;Physical;50;Neutral;Yes;"Physical attack; 50 Neutral damage to all foes. 95% accuracy.";neutral damage,physical attack,foe,accuracy
+Mach Rush III;10;Physical;80;Neutral;Yes;"Physical attack; 80 Neutral damage to all foes. 95% accuracy.";neutral damage,physical attack,foe,accuracy
+Physical Drain;3;Physical;50;Neutral;Yes;"Physical attack; 50 Neutral damage to one foe. Absorb 10% SP.";neutral damage,physical attack,foe,sp
+Spirit Drain;3;Magic;40;Neutral;Yes;"Magic attack; 40 Neutral damage to one foe. Absorb 10% SP.";neutral damage,magic attack,foe,sp
+Character Reversal;10;Magic;30;Neutral;Yes;"Magic attack; 30 Neutral damage to one foe. Inflicts Bug status effect.";inflicts bug status,bug status effects,neutral damage,magic attack,foe
+Heal;4;Support;0;Neutral;Yes;Restores a little HP for one party member.;little hp,party member
+X-Heal;8;Support;0;Neutral;Yes;Restores HP for one party member.;party member,restores hp
+Final Heal;16;Support;0;Neutral;Yes;Restores a lot of HP for one party member.;lot of hp,party member
+Aura;10;Support;0;Neutral;Yes;Restores a little HP for all party members.;little hp,party member
+X-Aura;25;Support;0;Neutral;Yes;Restores HP for all party members.;party member,restores hp
+Final Aura;40;Support;0;Neutral;Yes;Restores a lot of HP for all party members.;lot of hp,party member
+Revive;30;Support;0;Neutral;Yes;Revive one fallen party member with 50% HP.;fallen party member,hp
+Perfect Revival;60;Support;0;Neutral;Yes;Revive all fallen party members with full HP.;fallen party member,full hp
+Anti-Poison;4;Support;0;Neutral;Yes;Recover Poison from one party member and restore some HP.;party member,recover poison,hp
+Anti-Panic;4;Support;0;Neutral;Yes;Recover Panic from one party member and restore some HP.;recover panic,party member,hp
+Anti-Paralysis;4;Support;0;Neutral;Yes;Recover Paralyze from one party member and restore some HP.;party member,recover paralyze,hp
+Anti-Sleep;4;Support;0;Neutral;Yes;Recover Sleep from one party member and restore some HP.;party member,recover sleep,hp
+Anti-Stun;4;Support;0;Neutral;Yes;Recover Stun from one party member and restore some HP.;party member,recover stun,hp
+Anti-Dot;4;Support;0;Neutral;Yes;Recover Dot from one party member and restore some HP.;party member,recover dot,hp
+Anti-Bug;4;Support;0;Neutral;Yes;Recover Bug from one party member and restore some HP.;recover bug,party member,hp
+Restore;8;Support;0;Neutral;Yes;Remove all status effects from one party member and restore some HP.;status effects,party member,hp
+Dispel;8;Support;0;Neutral;Yes;Remove basic debuffs from one party member and restore some HP.;party member,basic debuffs,hp,remove
+Attack Charge;6;Support;0;Neutral;Yes;Increases ATK of one member by 10%.;member,atk
+Attack Charge Field;20;Support;0;Neutral;Yes;Increases ATK of all battle members by 10%.;battle member,atk
+Guard Charge;6;Support;0;Neutral;Yes;Increases DEF of one member by 10%.;member,def
+Guard Charge Field;20;Support;0;Neutral;Yes;Increases DEF of all battle members by 10%.;battle member,def
+Mental Charge;6;Support;0;Neutral;Yes;Increases INT of one member by 10%.;int,member
+Mental Charge Field;20;Support;0;Neutral;Yes;Increases INT of all battle members by 10%.;battle member,int
+Speed Charge;6;Support;0;Neutral;Yes;Increases SPD of one member by 10%.;increase spd,member
+Speed Charge Field;20;Support;0;Neutral;Yes;Increases SPD of all battle members by 10%.;battle member,increase spd
+Hit Charge;6;Support;0;Neutral;Yes;Increases ACC of one battle member by 10%.;battle member,increase acc
+Agility Charge;6;Support;0;Neutral;Yes;Increases EVA of one battle member by 10%.;battle member,increase eva
+Critical Charge;6;Support;0;Neutral;Yes;Increases CRIT of one battle member by 10%.;battle member,increase crit
+Attack Break;6;Support;0;Neutral;Yes;Reduces ATK of one enemy by 10%.;reduces atk,enemy
+Attack Break Field;20;Support;0;Neutral;Yes;Reduces ATK of all enemies by 10%.;reduces atk,enemy
+Guard Break;6;Support;0;Neutral;Yes;Reduces DEF of one enemy by 10%.;reduces def,enemy
+Guard Break Field;20;Support;0;Neutral;Yes;Reduces DEF of all enemies by 10%.;reduces def,enemy
+Mental Break;6;Support;0;Neutral;Yes;Reduces INT of one enemy by 10%.;reduces int,enemy
+Mental Break Field;20;Support;0;Neutral;Yes;Reduces INT of all enemies by 10%.;reduces int,enemy
+Speed Break;6;Support;0;Neutral;Yes;Reduces SPD of one enemy by 10%.;reduces spd,enemy
+Speed Break Field;20;Support;0;Neutral;Yes;Reduces SPD of all enemies by 10%.;reduces spd,enemy
+Acceleration Boost;6;Support;0;Neutral;Yes;Doubles damage output in the next turn.;double damage output,next turn
+Cross-Counter;6;Support;0;Neutral;Yes;Counterattacks the enemy when you receive a physical attack.;physical attack,enemy,counterattack
+Mirror Reflection;6;Support;0;Neutral;Yes;Counterattacks the enemy when you receive a magic attack.;magic attack,enemy,counterattack
+Status Barrier;16;Support;0;Neutral;Yes;Make one member immune to all status effects.;status effects,member
+Safety Guard;32;Support;0;Neutral;Yes;Make one member endure all attacks that could kill you once.;member,attack
+Chain Plus;4;Support;0;Neutral;Yes;Increase COMBO for one member by 50%.;member,combo
+Chain Max;8;Support;0;Neutral;Yes;Increase COMBO for one member by 100%.;member,combo
+Chain Minus;4;Support;0;Neutral;Yes;Reduce COMBO for one enemy by 50%.;enemy,combo
+Chain Loss;8;Support;0;Neutral;Yes;Reduce COMBO for one enemy by 100%.;enemy,combo
+Escape Dash;0;Support;0;Neutral;Yes;Flee from a battle.;battle,flee
+Bubbles;2;Magic;30;Water;No;"Magic attack; 30 Water damage to one foe. 90% accuracy.";magic attack,water damage,foe,accuracy
+Pepper Breath;5;Physical;70;Fire;No;"Physical attack; 70 Fire damage to one foe.";fire damage,physical attack,foe
+Spitfire Blast;5;Physical;35;Fire;No;"Physical attack; 35 Fire damage to all foes. 10% chance of increasing ATK by 10%.";fire damage,physical attack,foe,chance,atk
+Diamond Shell;5;Physical;60;Earth;No;"Physical attack; 60 Earth damage to one foe. 10% chance of increasing DEF by 10%.";earth damage,physical attack,chance,foe,def
+Summon;5;Fixed;0;Neutral;No;Fixed damage of 100 to one foe. 30% chance of increasing INT by 10%.;fixed damage,int,foe,chance
+Thunder Cloud;5;Magic;30;Electric;No;"2 magic attacks; 30 Electric damage to one foe.";magic attack,electric damage,foe
+Lullaby Bubble;5;Magic;55;Water;No;"Magic attack; 55 Water damage to one foe. 10% chance of putting target to sleep.";magic attack,water damage,foe,chance,target
+Double Backhand;5;Physical;20;Neutral;No;"2 physical attacks; 20 Neutral damage to all foes.";physical attack,neutral damage,foe
+Electric Stun Blast;5;Physical;65;Electric;No;"Physical attack; 65 Electric damage to one foe. 15% chance of paralyzing target.";electric damage,physical attack,chance,foe,target
+Blue Blaster;5;Physical;65;Fire;No;"Physical attack; 65 Fire damage to one foe. 10% chance of reducing target's DEF by 10%.";physical attack,fire damage,target,foe,chance,def
+Little Horn;5;Physical;70;Neutral;No;"Physical attack; 70 Neutral damage to one foe. 10% chance of reducing target's DEF by 10%.";neutral damage,physical attack,chance,foe,target,def
+Rock Breaker;5;Physical;70;Earth;No;"Physical attack; 70 Earth damage to one foe.";earth damage,physical attack,foe
+Blinding Ray;5;Magic;65;Light;No;"Magic attack; 65 Light damage to one foe.";light damage,magic attack,foe
+Crazy Giggle;5;Physical;75;Dark;No;"Physical attack; 75 Dark damage to one foe.";dark damage,physical attack,foe
+Rock Fist;5;Physical;65;Earth;No;"Physical attack; 65 Earth damage to one foe. 10% chance of increasing DEF by 10%.";earth damage,physical attack,chance,foe,def
+Goblin Strike;5;Physical;65;Fire;No;"Physical attack; 65 Fire damage to one foe. 10% chance of stunning target.";fire damage,stunning target,physical attack,foe,chance
+Marching Fishes;5;Physical;15;Water;No;"1-3 physical attacks; 15 Water damage to all foes.";water damage,physical attack,foe
+Black Pearl Blast;5;Magic;25;Water;No;"Magic attack; 25 Water damage to all foes.";magic attack,water damage,foe
+Shiny Ring;5;Physical;70;Dark;No;"Physical attack; 70 Dark damage to one foe. Alwatys hits.";dark damage,physical attack,foe,alwatys
+Terrier Tornado;5;Magic;20;Wind;No;"Magic attack; 20 Wind damage to all foes.";wind damage,magic attack,foe
+Super Shocker;5;Magic;60;Electric;No;"Magic attack; 60 Electric damage to one foe.";magic attack,electric damage,foe
+Plastic Blaze;5;Physical;60;Fire;No;"Physical attack; 60 Fire damage to one foe. 10% chance of reducing target's INT by 10%.";physical attack,fire damage,target,foe,int,chance
+Metal Cannon;5;Physical;70;Neutral;No;"Physical attack; 70 Neutral damage to one foe. 30% chance of increasing DEF by 10%.";neutral damage,physical attack,chance,foe,def
+Cog Crusher;5;Physical;70;Dark;No;"Physical attack; 70 Dark damage to one foe. Always hits.";dark damage,physical attack,foe
+Air Shot;5;Magic;50;Wind;No;"Magic attack; 50 Wind damage to one foe. 10% chance of increasing SPD by 10%.";wind damage,magic attack,chance,foe,spd
+Fifth Rush;5;Physical;20;Earth;No;"5 physical attacks; 20 Earth damage to one foe. 80% accuracy.";earth damage,physical attack,foe,accuracy
+Poison Ivy;5;Physical;65;Plant;No;"Physical attack; 65 Plant damage to one foe. 10% chance of poisoning target.";chance of poisoning,poisoning target,plant damage,physical attack,foe
+Demi Darts;5;Physical;20;Dark;No;"Physical attack; 20 Dark damage to all foes; absorbs 5% into HP.";dark damage,physical attack,foe,hp
+Spiral Twister;5;Magic;55;Fire;No;"Magic attack; 55 Fire damage to one foe. 10% chance of increasing INT by 10%.";fire damage,magic attack,chance,foe,int
+Ninja Blade;5;Physical;35;Wind;No;"Physical attack; 35 Wind damage to all foes.";wind damage,physical attack,foe
+Veemon Headbutt;5;Physical;75;Neutral;No;"Physical attack; 75 Neutral damage to one foe.";physical attack,neutral damage,foe
+Puppy Howl;10;Magic;0;Light;No;"INT-penetrating attack; Light damage to one foe. 10% chance of paralyzing target.";light damage,penetrating attack,foe,target,int,chance
+Electric Shock;5;Magic;55;Electric;No;"Magic attack; 55 Electric damage to one foe. 10% chance of paralyzing target.";magic attack,electric damage,chance,foe,target
+Feather Slash;10;Physical;0;Wind;No;"DEF-penetrating attack; Wind damage to one foe.";wind damage,foe,attack,def
+Seed Blast;5;Physical;15;Plant;No;"2 physical attacks; 15 Plant damage to all foes.";plant damage,physical attack,foe
+Grand Cross;30;Physical;0;Light;No;"INT-penetrating attack; Light damage to all foes.";light damage,penetrating attack,foe,int
+Diamond Storm;5;Magic;25;Plant;No;"Magic attack; 25 Plant damage to all foes.";plant damage,magic attack,foe
+Blazing Ice;5;Magic;60;Water;No;"Magic attack; 60 Water damage to one foe.";magic attack,water damage,foe
+Sticky Net;5;Physical;65;Plant;No;"Physical attack; 65 Plant damage to one foe. 30% chance of reducing target's SPD by 10%.";physical attack,plant damage,target,foe,chance,spd
+Frozen Claw;20;Physical;0;Water;No;"DEF-penetrating attack; Water damage to one foe.";water damage,foe,attack,def
+Glide Horn;10;Physical;85;Wind;No;"Physical attack; 85 Wind damage to one foe. 15% chance of stunning target.";stunning target,wind damage,physical attack,chance,foe
+Tail Hammer;10;Physical;85;Earth;No;"Physical attack; 85 Earth damage to one foe. 15% chance of stunning target.";earth damage,stunning target,physical attack,chance,foe
+Harpoon Torpedo;10;Physical;90;Fire;No;"Physical attack; 90 Fire damage to one foe. Always hits.";fire damage,physical attack,foe
+Thunder Cloud II;10;Magic;75;Electric;No;"Magic attack; 75 Electric damage to one foe. 10% chance of paralyzing target.";magic attack,electric damage,chance,foe,target
+Branch Drain;10;Physical;75;Plant;No;"Physical attack; 75 Plant damage to one foe; absorbs 20% into HP.";plant damage,physical attack,foe,hp
+Vee Laser;10;Physical;95;Light;No;"Physical attack; 95 Light damage to one foe.";light damage,physical attack,foe
+Heaven's Knuckle;10;Physical;80;Light;No;"Physical attack; 80 Light damage to one foe. 10% chance of increasing ATK & INT by 10%.";atk & int,light damage,physical attack,chance,foe
+Pummel Whack;10;Physical;90;Dark;No;"Physical attack; 90 Dark damage to one foe.";dark damage,physical attack,foe
+D-Grenade;10;Physical;40;Fire;No;"Physical attack; 40 Fire damage to all foes. Always hits.";fire damage,physical attack,foe
+Spiral Blow;10;Physical;90;Wind;No;"Physical attack; 90 Wind damage to one foe.";wind damage,physical attack,foe
+Electro Shocker;10;Magic;80;Electric;No;"Magic attack; 80 Electric damage to one foe.";magic attack,electric damage,foe
+Mature Poop;10;Physical;75;Earth;No;"Physical attack; 75 Earth damage to one foe. 30% chance of reducing target's INT by 10%.";earth damage,physical attack,chance,foe,target,int
+Dumdum Uppercut;10;Physical;90;Neutral;No;"Physical attack; 90 Neutral damage to one foe. 10% chance of stunning target.";physical attack,neutral damage,stunning target,foe,chance
+Fox Fire;10;Physical;85;Fire;No;"Physical attack; 85 Fire damage to one foe. 10% chance of increasing SPD by 10%.";physical attack,fire damage,foe,chance,spd
+Freeze Fang;10;Physical;85;Water;No;"Physical attack; 85 Water damage to one foe. 10% chance of increasing SPD by 10%.";physical attack,water damage,foe,chance,spd
+Will-o'-Wisp;10;Magic;30;Fire;No;"Magic attack; 30 Fire damage to all foes.";magic attack,fire damage,foe
+Exhaust Flame;10;Physical;85;Fire;No;"Physical attack; 85 Fire damage to one foe. 10% chance of increasing ATK by 10%.";fire damage,physical attack,foe,chance,atk
+Data Crusher;10;Physical;90;Dark;No;"Physical attack; 90 Dark damage to one foe. 5% chance of instantly killing target.";dark damage,physical attack,foe,chance,target
+Mega Flame;10;Physical;95;Fire;No;"Physical attack; 95 Fire damage to one foe.";fire damage,physical attack,foe
+Bit Fire;10;Physical;30;Fire;No;"3 physical attacks; 30 Fire damage to one foe.";fire damage,physical attack,foe
+Chrono Breaker;10;Fixed;0;Neutral;No;Fixed damage of 150 to one foe. 30% chance of reducing target's SPD by 10%.;fixed damage,foe,chance,target,spd
+Scissor Claw;20;Physical;0;Neutral;No;"DEF-penetrating attack; Neutral damage to one foe.";neutral damage,foe,attack,def
+Symphony Crusher;20;Magic;0;Neutral;No;"INT-penetrating attack; Neutral damage to one foe.";neutral damage,penetrating attack,foe,int
+Hyper Smell;10;Physical;70;Earth;No;"Physical attack; 70 Earth damage to one foe. 15% chance of confusing or paralyzing.";earth damage,physical attack,chance,foe
+Golden Rush;10;Physical;10;Light;No;"2 physical attacks; 10 Light damage to all foes. 1% chance of instantly killing target.";light damage,physical attack,foe,chance,target
+Hyper Heat;10;Physical;85;Fire;No;"Physical attack; 85 Fire damage to one foe. 10% chance of reducing target's DEF by 10%.";physical attack,fire damage,target,foe,chance,def
+Sunshine Beam;10;Magic;80;Light;No;"Magic attack; 80 Light damage to one foe.";light damage,magic attack,foe
+Ice Blast;10;Magic;75;Water;No;"Magic attack; 75 Water damage to one foe. 10% chance of reducing target's SPD by 10%.";magic attack,water damage,target,foe,chance,spd
+Mega Burst;10;Physical;45;Fire;No;"Physical attack; 45 Fire damage to all foes.";fire damage,physical attack,foe
+Poop;10;Physical;75;Earth;No;"Physical attack; 75 Earth damage to one foe. 30% chance of reducing target's SPD by 10%.";physical attack,earth damage,chance,foe,target,spd
+Meteor Shower;10;Physical;40;Neutral;No;"Physical attack; 40 Neutral damage to all foes. 90% accuracy. Tends to critical more often.";neutral damage,physical attack,foe,accuracy
+Spiking Strike;20;Physical;0;Plant;No;"DEF-penetrating attack; Plant damage to one foe. Tends to critical more often.";foe,attack,damage,def
+Crystal Cloud;10;Magic;30;Water;No;"Magic attack; 30 Water damage to all foes.";magic attack,water damage,foe
+Hyper Cannon;10;Physical;200;Fire;No;"Physical attack; 200 Fire damage to one foe. Cannot move from recoil for one turn.";fire damage,physical attack,turn,recoil,foe
+Fire Breath;10;Physical;90;Fire;No;"Physical attack; 90 Fire damage to one foe. Tends to critical more often.";fire damage,physical attack,foe
+Lightning Paw;10;Fixed;0;Neutral;No;Fixed damage of 150 to one foe. 60% chance of confusing target.;confusing target,fixed damage,foe,chance
+Death Claw;10;Fixed;0;Neutral;No;Fixed damage of 200 to one foe. Absorbs 20% of the damage as HP.;fixed damage,foe,hp,damage,absorbs
+Needle Spray;10;Physical;40;Plant;No;"Physical attack; 40 Plant damage to all foes. 5% chance of paralyzing target.";plant damage,physical attack,chance,foe,target
+Power Metal;10;Physical;90;Neutral;No;"Physical attack; 90 Neutral damage to one foe. 30% chance of increasing attack by 10%.";neutral damage,physical attack,foe,chance,attack
+Poop Dunk;10;Physical;80;Earth;No;"Physical attack; 80 Earth damage to one foe. 30% chance of reducing target's DEF by 10%.";earth damage,physical attack,chance,foe,target,def
+Poop Toss;10;Physical;75;Earth;No;"Physical attack; 75 Earth damage to one foe. 30% chance of reducing target's ATK by 10%.";earth damage,physical attack,chance,foe,target,atk
+Meteor Wing;10;Magic;25;Fire;No;"Magic attack; 25 Fire damage to all foes. 10% chance of increasing SPD by 10%.";magic attack,fire damage,foe,chance,spd
+Death Charm;10;Direct;0;Neutral;No;Reduce 10% HP from one enemy.;enemy,hp
+V-Nova Blast;10;Physical;105;Fire;No;"Physical attack; 105 Fire damage to one foe. After use; receive 5% HP damage from recoil.";hp damage,fire damage,physical attack,foe,use,recoil
+Rare Metal Poop;10;Physical;80;Earth;No;"Physical attack; 80 Earth damage to one foe. Causes Knockback.";earth damage,physical attack,foe,knockback
+Super Stinky Jet;10;Magic;20;Earth;No;"Magic attack; 20 Earth damage to all foes. 30% chance of reducing target's SPD by 10%.";earth damage,magic attack,chance,target,foe,spd
+Kunai Wing;10;Physical;30;Wind;No;"3 physical attacks; 30 Wind damage to one foe.";wind damage,physical attack,foe
+Burning Fist;10;Physical;80;Fire;No;"Physical attack; 80 Fire damage to one foe. 30% chance of increasing ATK by 10%.";fire damage,physical attack,foe,chance,atk
+Sub-zero Ice Punch;10;Physical;80;Water;No;"Physical attack; 80 Water damage to one foe. 10% chance of stunning target.";water damage,stunning target,physical attack,foe,chance
+Fist of the Beast King;10;Physical;95;Earth;No;"Physical attack; 95 Earth damage to one foe.";earth damage,physical attack,foe
+Razor Wind;10;Physical;30;Neutral;No;"2-4 physical attacks; 30 Neutral damage to one foe.";physical attack,neutral damage,foe
+Turbo Stinger;10;Physical;25;Electric;No;"4 physical attacks; 25 Electric damage to one foe.";physical attack,electric damage,foe
+Horn Buster;30;Magic;0;Electric;No;"INT-penetrating attack; double Electric damage to one foe.";double electric damage,penetrating attack,foe,int
+Bunny Blades;15;Physical;55;Wind;No;"2 physical attacks; 55 Wind damage to one foe.";wind damage,physical attack,foe
+Spiral Sword;15;Physical;110;Electric;No;"Physical attack; 110 Electric damage to one foe. Tends to critical more often.";physical attack,electric damage,foe
+Galactic Flare;15;Magic;55;Neutral;No;"Magic attack; 55 Neutral damage to all foes.";neutral damage,magic attack,foe
+Spider Shooter;15;Physical;30;Fire;No;"4 physical attacks; 30 Fire damage to one foe. 5% chance of reducing target's DEF by 10%.";fire damage,physical attack,foe,chance,target,def
+Night Raid;15;Magic;65;Dark;No;"Magic attack; 65 Dark damage to all foes; absorbs 15% into HP.";magic attack,dark damage,foe,hp
+Dragon Impulse;15;Physical;115;Wind;No;"Physical attack; 115 Wind damage to one foe.";wind damage,physical attack,foe
+Love Serenade;30;Magic;0;Dark;No;"INT-penetrating attack; Dark damage to all foes. 15% chance of paralyzing target.";penetrating attack,dark damage,foe,target,int,chance
+Celestial Arrow;15;Magic;100;Light;No;"Magic attack; 100 Light damage to one foe. Always hits.";light damage,magic attack,foe
+Double Scissor Claw;30;Physical;0;Neutral;No;"DEF-penetrating attack; double Neutral damage to one foe.";double neutral damage,foe,attack,def
+Shadow Wing;15;Magic;65;Fire;No;"Magic attack; 65 Fire damage to all foes.";magic attack,fire damage,foe
+Genocidal Gears;15;Physical;60;Fire;No;"Physical attack; 60 Fire damage to all foes.";fire damage,physical attack,foe
+Nitro Stinger;30;Physical;0;Electric;No;"DEF-penetrating attack; double Electric damage to one foe.";double electric damage,foe,attack,def
+The King of Fists;15;Physical;55;Wind;No;"1-3 physical attacks; 55 Wind damage to one foe. 15% chance of stunning target.";stunning target,wind damage,physical attack,chance,foe
+Desolation Claw;15;Physical;115;Neutral;No;"Physical attack; 115 Neutral damage to one foe. 10% chance of instantly killing target.";neutral damage,physical attack,foe,chance,target
+Disaster Blaster;15;Magic;65;Light;No;"Magic attack; 65 Light damage to all foes.";light damage,magic attack,foe
+Cherry Bomb;15;Physical;65;Plant;No;"Physical attack; 65 Plant damage to all foes.";plant damage,physical attack,foe
+Top Gun;15;Magic;110;Wind;No;"Magic attack; 110 Wind damage to one foe.";wind damage,magic attack,foe
+Superstar Uppercut;15;Physical;110;Light;No;"Physical attack; 110 Light damage to one foe.";light damage,physical attack,foe
+Oblivion Bird;15;Physical;110;Fire;No;"Physical attack; 110 Fire damage to one foe. 30% chance of reducing target's DEF by 10%.";fire damage,physical attack,foe,chance,target,def
+Vulcan's Hammer;15;Physical;115;Electric;No;"Physical attack; 115 Electric damage to one foe.";physical attack,electric damage,foe
+Talisman of Light;15;Magic;105;Dark;No;"Magic attack; 105 Dark damage to one foe.";magic attack,dark damage,foe
+Wind Cutter Sword;15;Physical;40;Wind;No;"3 physical attacks; 40 Wind damage to one foe.";wind damage,physical attack,foe
+Nightmare Syndrome;15;Magic;0;Neutral;No;Reduce 15% HP from one enemy. 20% chance of putting target to sleep.;enemy,hp,chance,target
+Heavy Metal Fire;15;Physical;110;Fire;No;"Physical attack; 110 Fire damage to one foe. 30% chance of increasing DEF by 10%.";fire damage,physical attack,foe,chance,def
+Musical Fist;30;Magic;0;Neutral;No;"INT-penetrating attack; Neutral damage to all with 10% chance of reducing ATK/INT by 10%.";penetrating attack,neutral damage,int,chance,atk
+Metal Meteor;15;Physical;115;Earth;No;"Physical attack; 115 Earth damage to one foe.";earth damage,physical attack,foe
+Berserk Sword;15;Direct;0;Neutral;No;Inflict Death on one enemy. 30% accuracy.;inflict death,enemy,accuracy
+Digital Bomb;15;Magic;80;Fire;No;"Magic attack; 80 Fire damage to one foe. 5% chance of reducing base stats by 10%.";fire damage,magic attack,base stats,foe,chance
+Death Parade Blaster;15;Physical;40;Light;No;"2 physical attacks; 40 Light damage to all foes.";light damage,physical attack,foe
+Fist of Ice;15;Physical;110;Water;No;"Physical attack; 110 Water damage to one foe. 15% chance of stunning target.";water damage,stunning target,physical attack,foe,chance
+Trick or Treat;15;Physical;100;Neutral;No;"Physical attack; 100 Neutral damage to one foe. Decrease target's INT by 10%.";physical attack,neutral damage,decrease target,int,foe
+Pit Bomb;15;Magic;105;Fire;No;"Magic attack; 105 Fire damage to one foe.";magic attack,fire damage,foe
+Dark Pupil;15;Physical;110;Dark;No;"Physical attack; 110 Dark damage to one foe. 20% chance of poisoning target.";chance of poisoning,poisoning target,dark damage,physical attack,foe
+Cold Flame;15;Physical;100;Fire;No;"Physical attack; 100 Fire damage to one foe. 10% chance of increasing INT by 10%.";fire damage,physical attack,chance,foe,int
+Unidentified Flying Kiss;15;Magic;95;Dark;No;"Magic attack; 95 Dark damage to one foe. 15% chance of dotting target.";magic attack,dark damage,chance,foe,target
+Tidal Wave;15;Magic;65;Water;No;"Magic attack; 65 Water damage to all foes.";magic attack,water damage,foe
+Heaven's Gate;15;Magic;100;Light;No;"Magic attack; 100 Light damage to one foe. 10% chance of instantly killing target.";light damage,magic attack,chance,foe,target
+Winning Knuckle;15;Physical;115;Neutral;No;"Physical attack; 115 Neutral damage to one foe. 20% chance of stunning target.";physical attack,neutral damage,stunning target,foe,chance
+Smile Bomber;15;Physical;110;Fire;No;"Physical attack; 110 Fire damage to one foe. Always hits.";fire damage,physical attack,foe
+Lightning Javelin;15;Magic;105;Electric;No;"Magic attack; 105 Electric damage to one foe.";magic attack,electric damage,foe
+Genocide Attack;15;Physical;110;Fire;No;"Physical attack; 110 Fire damage to one foe. Tends to critical more often.";fire damage,physical attack,foe
+Atomic Blaster;15;Physical;250;Electric;No;"Physical attack; 250 Electric damage to one foe. Cannot move from recoil for one turn.";physical attack,electric damage,foe,recoil,turn
+Giga Destroyer;15;Physical;115;Fire;No;"Physical attack; 115 Fire damage to one foe.";fire damage,physical attack,foe
+Revenge Flame;15;Direct;0;Neutral;No;Counterattack the enemy when you receive a physical or magic attack.;magic attack,enemy,counterattack
+Nuclear Laser;30;Physical;0;Electric;No;"DEF-penetrating attack; Electric damage to one foe. 30% chance of increasing DEF by 10%.";electric damage,def,foe,chance,attack
+Energy Bomb;15;Magic;100;Electric;No;"Magic attack; 100 Electric damage to one foe. Always hits.";magic attack,electric damage,foe
+Hearts Attack;30;Magic;0;Neutral;No;"INT-penetrating attack; Neutral damage to one foe. 20% chance of confusing target.";neutral damage,penetrating attack,confusing target,foe,int,chance
+Savage Emperor;15;Magic;105;Light;No;"Magic attack; 105 Light damage to one foe.";light damage,magic attack,foe
+Trident Revolver;15;Physical;40;Fire;No;"3 physical attacks; 40 Fire damage to one foe.";fire damage,physical attack,foe
+Lila Shower;15;Magic;60;Plant;No;"Magic attack; 60 Plant damage to all foes. 20% chance of poisoning target.";chance of poisoning,poisoning target,plant damage,magic attack,foe
+Golden Triangle I;15;Magic;90;Electric;No;"Magic attack; 90 Electric damage to one foe. 5% chance of increasing base stats by 10%.";magic attack,base stats,electric damage,chance,foe
+Flower Cannon;15;Magic;105;Plant;No;"Magic attack; 105 Plant damage to one foe.";plant damage,magic attack,foe
+Dead or Alive;25;Magic;110;Neutral;No;"Magic attack; 110 Neutral damage to one foe. 10% to inflict a status effect; 5% chance of instantly killing target.";neutral damage,magic attack,status effects,target,foe,chance
+Darkness Wave;15;Magic;35;Dark;No;"2 magic attacks; 35 Dark damage to all foes.";dark damage,magic attack,foe
+Wolf Claw;15;Physical;120;Neutral;No;"Physical attack; 120 Neutral damage to one foe.";neutral damage,physical attack,foe
+Full Moon Kick;15;Physical;110;Earth;No;"Physical attack; 110 Earth damage to one foe. 30% chance of increasing SPD by 10%.";physical attack,earth damage,chance,foe,spd
+Pandora Dialogue;15;Magic;0;Neutral;No;Reduces HP of all foes by 20%. Receive damage equal to 10% of HP from recoil.;reduces hp,foe,recoil,hp,damage
+Blade of the Dragon King;25;Physical;30;Light;No;"3-6 physical attacks; 30 Light damage to one foe.";light damage,physical attack,foe
+The Ray of Victory;25;Physical;100;Light;No;"Physical attack; 100 Light damage to all. Always hits. 10% chance increasing SPD by 10%.";physical attack,light damage,chance,spd
+Brain Rupture;20;Magic;115;Electric;No;"Magic attack; 115 Electric damage to one foe. 20% chance of confusing target.";magic attack,confusing target,electric damage,chance,foe
+Megadeath;20;Magic;95;Dark;No;"Magic attack; 95 Dark damage to all foes.";magic attack,dark damage,foe
+Positron Laser;20;Physical;150;Light;No;"Physical attack; 150 Light damage to one foe.";light damage,physical attack,foe
+Arctic Blizzard;20;Physical;125;Water;No;"Physical attack; 125 Water damage to one foe. 25% chance of stunning target.";water damage,stunning target,physical attack,foe,chance
+Venom Infusion;20;Physical;135;Dark;No;"Physical attack; 135 Dark damage to one foe. 30% chance of poisoning target.";chance of poisoning,poisoning target,dark damage,physical attack,foe
+Terra Force;20;Physical;90;Fire;No;"Physical attack; 90 Fire damage to all foes. 30% chance of increasing ATK by 20%.";fire damage,physical attack,foe,chance,atk
+Pendragon's Glory;25;Physical;135;Wind;No;"Physical attack; 135 Wind damage to one foe.";wind damage,physical attack,foe
+Eden's Javelin;20;Magic;120;Light;No;"Magic attack; 120 Light damage to one foe. 30% chance of increasing INT by 20%.";light damage,magic attack,chance,foe,int
+Will-O'-Wisp Slash;20;Physical;65;Fire;No;"2 physical attacks; 65 Fire damage to one foe.";fire damage,physical attack,foe
+Demonic Disaster;25;Physical;140;Dark;No;"Physical attack; 140 Dark damage to one foe.";dark damage,physical attack,foe
+Quake!Blast!Fire!Father!;25;Physical;35;Fire;No;"4 physical attacks; 35 Fire damage to one foe.";fire damage,physical attack,foe
+Taizoukai Mandala;20;Magic;70;Dark;No;"Magic attack; 70 Dark damage to all foes. Cancel target's positive effects.";magic attack,positive effects,dark damage,foe,target
+Dimension Scissor;40;Physical;0;Plant;No;"DEF-penetrating attack; double Plant damage to one foe. Tends to critical more often.";double plant damage,foe,attack,def
+Destruction Crush;20;Magic;80;Earth;No;"Magic attack; 80 Earth damage to all foes.";earth damage,magic attack,foe
+Waltz's End;25;Physical;30;Neutral;No;"3 physical attacks; 30 Neutral damage to all foes.";physical attack,neutral damage,foe
+Heaven's Judgment;20;Magic;90;Light;No;"Magic attack; 90 Light damage to all foes. Tends to critical more often.";light damage,magic attack,foe
+Howling Crusher;20;Physical;65;Earth;No;"2 physical attacks; 65 Earth damage to one foe.";earth damage,physical attack,foe
+Amethyst Mandala;20;Magic;70;Light;No;"Magic attack; 70 Light damage to all foes. Cancel target's positive effects.";light damage,magic attack,positive effects,foe,target
+Judgement of the Blade;25;Physical;30;Neutral;No;"5 physical attacks; 30 Neutral damage to one foe.";physical attack,neutral damage,foe
+GeoGrey Sword;20;Physical;130;Fire;No;"Physical attack; 130 Fire damage to one foe. Increases ATK by 10%.";fire damage,physical attack,foe,atk
+Justice Kick;20;Physical;130;Neutral;No;"Physical attack; 130 Neutral damage to one foe. 1% chance of increasing ATK by 50%.";neutral damage,physical attack,chance,foe,atk
+Bifrost;25;Magic;120;Light;No;"Magic attack; 120 Light damage to one foe. Increases SPD by 10%.";light damage,magic attack,increase spd,foe
+Strike of the Seven Stars;20;Magic;15;Light;No;"7 magic attacks; 15 Light damage to all foes.";light damage,magic attack,foe
+Burst Shot;20;Physical;50;Fire;No;"2 physical attacks; 50 Fire damage to all foes.";fire damage,physical attack,foe
+Mach Stinger V;20;Physical;20;Electric;No;"6 physical attacks; 20 Electric damage to one foe. Tends to critical more often.";physical attack,electric damage,foe
+Soul Core Attack;40;Physical;0;Earth;No;"DEF-penetrating attack; double Earth damage to one foe.";double earth damage,foe,attack,def
+Good Night Moon;20;Magic;125;Light;No;"Magic attack; 125 Light damage to one foe. Puts target to sleep.";light damage,magic attack,foe,target,sleep
+Catastrophe Cannon;20;Physical;80;Fire;No;"3 physical attacks; 80 Fire damage to a foe. Cannot move from recoil for one turn.";fire damage,physical attack,turn,recoil,foe
+Flame Inferno;25;Magic;90;Fire;No;"Magic attack; 90 Fire damage to all foes.";magic attack,fire damage,foe
+Lightning Joust;25;Physical;140;Light;No;"Physical attack; 140 Light damage to one foe. 30% chance of increasing DEF by 10%.";light damage,physical attack,chance,foe,def
+Wyvern's Breath;25;Physical;110;Wind;No;"Physical attack; 110 Wind damage to all foes. Receive recoil damage equal to 20% of HP.";physical attack,wind damage,recoil damage,hp,foe
+Extinction Wave;25;Magic;80;Light;No;"Magic attack; 80 Light damage to all foes. Always hits.";light damage,magic attack,foe
+Vulcan Crusher;30;Physical;145;Earth;No;"Physical attack; 145 Earth damage to one foe. 35% chance of stunning target. 95% accuracy.";earth damage,stunning target,physical attack,chance,foe,accuracy
+Atomic Ray;20;Physical;125;Electric;No;"Physical attack; 125 Electric damage to one foe. 20% chance of stunning target.";physical attack,stunning target,electric damage,foe,chance
+Pandemonium Lost;25;Magic;80;Dark;No;"Magic attack; 80 Dark damage to all foes; absorbs 20% into HP.";magic attack,dark damage,foe,hp
+Flashy Boss Punch;20;Physical;130;Light;No;"Physical attack; 130 Light damage to one foe. 50% chance of stunning target.";light damage,stunning target,physical attack,chance,foe
+Trump Sword;20;Magic;35;Neutral;No;"4 magic attacks; 35 Neutral damage to one foe.";neutral damage,magic attack,foe
+Puppet Pummel;20;Physical;125;Earth;No;"Physical attack; 125 Earth damage to one foe. 25% chance of stunning target.";earth damage,stunning target,physical attack,chance,foe
+Platinum Junk;20;Physical;30;Earth;No;"4 physical attacks; 30 Earth damage to one foe. 30% chance of reducing target's ATK by 10%.";earth damage,physical attack,chance,foe,target,atk
+Dark Terra Force;20;Physical;100;Dark;No;"Physical attack; 100 Dark damage to all foes. 30% chance of increasing DEF by 20%.";dark damage,physical attack,foe,chance,def
+Smile Warhead;20;Physical;130;Neutral;No;"Physical attack; 130 Neutral damage to one foe. 50% chance to cause knockback.";neutral damage,physical attack,chance,foe,knockback
+Sorrow Blue;40;Magic;0;Water;No;"INT-penetrating attack; Water damage to all foes. 25% chance of putting target to sleep.";water damage,penetrating attack,target,int,foe,chance
+Giga Blaster;20;Magic;120;Electric;No;"Magic attack; 120 Electric damage to one foe.";magic attack,electric damage,foe
+Double Impact;25;Physical;20;Dark;No;"8 physical attacks; 20 Dark damage to one foe. 90% accuracy.";dark damage,physical attack,foe,accuracy
+Eternal Nightmare;50;Magic;0;Dark;No;"INT-penetrating attack; Dark damage to all foes. 50% chance of putting target to sleep.";penetrating attack,dark damage,foe,target,int,chance
+Starlight Explosion;20;Magic;80;Fire;No;"Magic attack; 80 Fire damage to all foes.";magic attack,fire damage,foe
+Fire Tornado;20;Magic;80;Light;No;"Magic attack; 80 Light damage to all foes.";light damage,magic attack,foe
+Tomahawk Stinger;20;Physical;130;Neutral;No;"Physical attack; 130 Neutral damage to one foe. 15% chance of confusing target.";neutral damage,confusing target,physical attack,chance,foe
+Chaos Degradation;25;Direct;0;Neutral;No;Reduces HP of all foes by 25%.;reduces hp,foe
+Ocean Love;20;Support;0;Neutral;No;Restore HP to all battle members and recover all status effects.;status effects,battle member,hp
+Strike Roll;20;Physical;140;Neutral;No;"Physical attack; 140 Neutral damage to one foe. Tends to critical more often.";neutral damage,physical attack,foe
+Full Moon Blaster;20;Physical;135;Light;No;"Physical attack; 135 Light damage to one foe. Always hits.";light damage,physical attack,foe
+Infinity Cannon;20;Physical;115;Electric;No;"Physical attack; 115 Electric damage to all foes. 80% accuracy.";electric damage,physical attack,foe,accuracy
+Banana Slip;20;Magic;115;Dark;No;"Magic attack; 115 Dark damage to one foe. 80% chance of stunning target.";stunning target,magic attack,dark damage,chance,foe
+Ice Wolf Claw;20;Physical;45;Water;No;"2 physical attacks; 45 Water damage to all foes.";water damage,physical attack,foe
+River of Power;20;Magic;120;Water;No;"Magic attack; 120 Water damage to one foe.";magic attack,water damage,foe
+Terrors Cluster;20;Physical;125;Electric;No;"Physical attack; 125 Electric damage to one foe. 25% chance of paralyzing target.";electric damage,physical attack,foe,chance,target
+Biting Crush;25;Physical;145;Neutral;No;"Physical attack; 145 Neutral damage to one foe. 15% chance of instantly killing target.";neutral damage,physical attack,foe,chance,target
+Phantom Pain;50;Magic;0;Dark;No;"INT-penetrating attack; triple Dark damage to one foe. 35% chance of poisoning target.";chance of poisoning,triple dark damage,poisoning target,penetrating attack,int,foe
+Celestial Blade;20;Magic;80;Electric;No;"Magic attack; 80 Electric damage to all foes.";magic attack,electric damage,foe
+Spiral Masquerade;25;Physical;30;Dark;No;"4 physical attacks; 30 Dark damage to one foe. 30% chance of increasing SPD by 20%.";physical attack,dark damage,foe,chance,spd
+Thorn Whip;20;Physical;120;Plant;No;"Physical attack; 120 Plant damage to one foe; absorbs 50% into HP. 15% chance of paralyzing target.";plant damage,physical attack,target,hp,foe,chance
+Seven's Fantasia;20;Magic;75;Light;No;"Magic attack; 75 Light damage to all foes. 20% chance of confusing target.";light damage,magic attack,confusing target,chance,foe
+Lightning Spear;40;Magic;0;Electric;No;"INT-penetrating attack; double Electric damage to one foe. Tends to critical more often.";double electric damage,penetrating attack,foe,int
+Corona Destroyer;50;Physical;0;Dark;No;"DEF-penetrating attack; double Dark damage to one foe. Absorbs 20% of the damage as HP.";double dark damage,foe,attack,absorbs,hp,damage,def
+Dark Roar;15;Physical;130;Dark;No;"Physical attack; 130 Dark damage to one foe. 90% accuracy; tends to critical more often.";dark damage,physical attack,foe,accuracy
+Fenrir Sword;15;Physical;130;Water;No;"Physical attack; 130 Water damage to one foe. 15% chance of instantly killing target.";water damage,physical attack,foe,chance,target
+Final Shining Burst;20;Physical;200;Fire;No;"Physical attack; 200 Fire damage to all foes. Decreases ATK by 10%.";fire damage,physical attack,foe,atk
+Full Moon Meteor Impact;20;Physical;120;Light;No;"Physical attack; 120 Light damage to one foe. 30% chance of stunning and tends to critical.";light damage,physical attack,foe,chance
+Mourning Dance;20;Physical;20;Dark;No;"8 physical attacks; 20 Dark damage to one foe. Damage tends to fluctuate.";dark damage,physical attack,foe,damage
+Aguichant L\E8vres;30;Magic;0;Light;No;INT-penetrating Light attack on one foe and absorbs 50% of the damage as HP.;light attack,foe,int,hp,damage
+Omni Sword;30;Physical;150;Neutral;No;"Physical attack; 150 Neutral damage to one foe. 10% chance of dotting target.";neutral damage,physical attack,foe,chance,target
+Transcendent Sword;30;Physical;115;Fire;No;"Physical attack; 115 Fire damage to all foes.";fire damage,physical attack,foe
+Gift of Darkness;60;Physical;0;Dark;No;"DEF-penetrating attack; triple Dark damage to one foe.";triple dark damage,foe,attack,def
+Divine Atonement;30;Magic;105;Light;No;"Magic attack; 105 Light damage to all foes.";light damage,magic attack,foe
+Bantyo Blade;20;Physical;150;Neutral;No;"Physical attack; 150 Neutral damage to one foe. Damage tends to fluctuate.";physical attack,neutral damage,foe,damage
+Flaming Fist;10;Physical;50;Fire;No;"Physical attack; 50 Fire damage to all foes.";fire damage,physical attack,foe
+S-Gold Solar Storm;25;Magic;75;Light;No;"Magic attack; 75 Light damage to all foes. Increases DEF by 10%.";light damage,magic attack,foe,def
+Golden Triangle;20;Magic;110;Light;No;"Magic attack; 110 Light damage to one foe. Increases base stats by 10%.";increase base stats,light damage,magic attack,foe
+Soul Digitalization;25;Magic;95;Neutral;No;"Magic attack; 95 Neutral damage to all foes. 5% chance of instantly killing target.";neutral damage,magic attack,chance,foe,target
+Victory Sword;25;Physical;65;Wind;No;"2 physical attacks; 65 Wind damage to one foe.";wind damage,physical attack,foe
+Great Tornado;40;Physical;0;Fire;No;"DEF-penetrating attack; double Fire damage to one foe.";double fire damage,foe,attack,def
+Dragonic Impact;50;Physical;100;Fire;No;"Physical attack; 100 Fire damage to all foes. Also knocks back targets.";physical attack,back target,fire damage,foe
+Judecca Prison;25;Magic;115;Dark;No;"Magic attack; 115 Dark damage to one foe. Always hits and undoes any stat reductions.";magic attack,dark damage,stat reduction,foe
+Table Flip;25;Physical;100;Earth;No;"Physical attack; 100 Earth damage to all foes. 70% accuracy. Tends to critical more often.";earth damage,physical attack,foe,accuracy
+Breath of the Gods;25;Support;0;Neutral;No;Nullifies any damage received until next turn.;next turn,nullifies,damage
+Weltgeist;25;Support;0;Neutral;No;"Nullify all received damage until the next turn; and counterattacks when receiving physical or magic attacks.";next turn,magic attack,nullify,damage,counterattack
+Odin's Breath;25;Physical;105;Water;No;"Physical attack; 105 Water damage to all foes. 10% chance of putting target to sleep.";water damage,physical attack,foe,chance,target
+Shield of the Just;25;Magic;115;Light;No;"Magic attack; 115 Light damage to one foe. Always hits. Cancels negative effects on itself.";negative effects,light damage,magic attack,foe
+Dragon's Roar;25;Physical;55;Fire;No;"2 physical attacks; 55 Fire damage to a foe and absorbs 50% of the damage as HP.";fire damage,physical attack,foe,hp,damage
+Black Aura Blast;25;Magic;110;Dark;No;"Magic attack; 110 Dark damage to one foe. Decrease target's DEF by 10%";magic attack,decrease target,dark damage,foe,def
+Black Tornado;40;Physical;0;Dark;No;"DEF-penetrating attack; double Dark damage to one foe.";double dark damage,foe,attack,def
+Garuru Tomahawk;20;Physical;140;Neutral;No;"Physical attack; 140 Neutral damage to one foe. Always hits.";neutral damage,physical attack,foe
+Fist of Athena;50;Physical;0;Fire;No;"DEF-penetrating attack; triple Fire damage to one foe. 30% chance of stunning target.";triple fire damage,stunning target,attack,foe,chance,def
+Supreme Cannon;30;Magic;130;Water;No;"Magic attack; 130 Water damage to one foe.";magic attack,water damage,foe
+Dark Prominence;30;Magic;0;Dark;No;INT-penetrating Dark attack to one foe. 50% chance of crystallizing target.;dark attack,foe,target,int,chance
+Plasma Shoot;25;Physical;35;Fire;No;"3 physical attacks; 35 Fire damage to all foes.";fire damage,physical attack,foe
+;;;;;;
